@@ -63,10 +63,6 @@ Project ini dibuat untuk memenuhi tugas UAS sekaligus mengimplementasikan konsep
 │       └── deploy.yml
 ├── html/
 │   ├── index.html
-│   ├── assets/
-│   ├── css/
-│   ├── images/
-│   └── js/
 ├── docker-compose.yml
 └── README.md
 ```
